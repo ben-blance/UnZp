@@ -15,7 +15,7 @@ A Python application to automatically unzip files in the Downloads folder.
 2. The app will monitor the Downloads folder and unzip any new zip files.
 3. Use the GUI to start/stop the monitoring, hide the application, or set it to run on startup.
 
-## Libaraies Used
+## Libraries Used
 
 - Python 3.x
 - `watchdog` library
