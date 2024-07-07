@@ -24,7 +24,7 @@ A Python application to automatically unzip files in the Downloads folder.
 
 ## Installation
 
-1. Download the latest release from the [UnZp Site](https://github.com/ben-blance/UnZp)
+1. Download the latest release from the [UnZp Site](https://ben-blance.github.io/unzp_site/UnZp.html)
 2. Run the application by double-clicking on `UnZp.exe`
 
 ## Screenshot
